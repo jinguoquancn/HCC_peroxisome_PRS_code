@@ -1,30 +1,39 @@
 # Analysis code for: A peroxisome-related prognostic signature is associated with reduced lymphocytic infiltration in hepatocellular carcinoma
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22640219.svg)
+Reproducible analysis code for the manuscript submitted to *PLOS ONE* (2026).
 
-Reproducible analysis code for the manuscript submitted to *PLOS ONE* (2026).  
-**v1.1** adds the analyses performed in response to peer review; see  
+**v1.1** adds the analyses performed in response to peer review; see
+
 [CHANGELOG.md](CHANGELOG.md) for the exact list.
 
 ## Overview
 
 - Single-cell RNA-seq processing of five HCC datasets (**76,762 cells** after QC)
-- A **131-gene peroxisome-related gene (PRG)** set used to score peroxisome    
-  activity (PXS), and a **ten-gene peroxisome-related prognostic signature (PRS)**    
+- A **131-gene peroxisome-related gene (PRG)** set used to score peroxisome
+
+  activity (PXS), and a **ten-gene peroxisome-related prognostic signature (PRS)**
+
   derived within an eight-algorithm framework
-- Apparent TCGA-LIHC C-index **0.761**, which falls to **0.556-0.564** under    
+- Apparent TCGA-LIHC C-index **0.761**, which falls to **0.556-0.564** under
+
   leakage-free nested cross-validation
-- External evaluation in four GEO cohorts and ICGC-LIRI-JP; random-effects    
+- External evaluation in four GEO cohorts and ICGC-LIRI-JP; random-effects
+
   meta-analysis pooled HR **1.57** (95% CI 1.18-2.09), I-squared **0%**
-- Multivariable Cox regression adjusted for age, sex and AJCC stage: PRS    
+- Multivariable Cox regression adjusted for age, sex and AJCC stage: PRS
+
   HR **2.66 per SD** (95% CI 2.06-3.44), C-index **0.61 -> 0.78**
-- Immune, mutational and drug-sensitivity associations, with    
+- Immune, mutational and drug-sensitivity associations, with
+
   Benjamini-Hochberg correction and a tumour-purity sensitivity analysis
 - Figure generation (main Figs 1-8) and supporting figures/tables
 
-We report the negative and the positive results with equal weight: the  
-single-cell difference between malignant and non-malignant hepatocytes does not  
-survive patient-level analysis (58 paired patients, p = 0.54), and the  
+We report the negative and the positive results with equal weight: the
+
+single-cell difference between malignant and non-malignant hepatocytes does not
+
+survive patient-level analysis (58 paired patients, p = 0.54), and the
+
 ten-gene score performs at the level of the null under nested cross-validation.
 
 All data used are publicly available; see **Data availability**.
@@ -56,9 +65,12 @@ All data used are publicly available; see **Data availability**.
     `-- processed/           # lightweight outputs only (see data/processed/README.md)
 ```
 
-Scripts are kept flat so that `import figstyle`, `import core` and  
-`from config import PROJECT_ROOT` resolve without modification. Every hardcoded  
-development path has been redirected through `config.PROJECT_ROOT`, so the  
+Scripts are kept flat so that `import figstyle`, `import core` and
+
+`from config import PROJECT_ROOT` resolve without modification. Every hardcoded
+
+development path has been redirected through `config.PROJECT_ROOT`, so the
+
 repository is relocatable.
 
 ## Environment
@@ -71,10 +83,14 @@ pip install -r requirements.txt
 
 ## Data availability
 
-No new data were generated. Raw data are public; the ~18 GB of raw files and the  
-bulk-expression matrices are **not** bundled. Download them from the accessions  
-below into `data/raw/`, or re-run the acquisition scripts (`build_geo.py`,  
-`build_tcga.py`, `build_icgc.py`, `fetch_*.py`). MSigDB gene sets require a free  
+No new data were generated. Raw data are public; the ~18 GB of raw files and the
+
+bulk-expression matrices are **not** bundled. Download them from the accessions
+
+below into `data/raw/`, or re-run the acquisition scripts (`build_geo.py`,
+
+`build_tcga.py`, `build_icgc.py`, `fetch_*.py`). MSigDB gene sets require a free
+
 license and go in `data/genesets/`.
 
 | Dataset      | Repository and direct link                                     | Use                                                                   |
@@ -92,9 +108,12 @@ license and go in `data/genesets/`.
 | ICGC-LIRI-JP | <https://dcc.icgc.org/projects/LIRI-JP>                        | validation (release 28)                                               |
 | GDSC1        | <https://www.cancerrxgene.org/downloads/bulk_download>         | drug sensitivity                                                      |
 
-A lightweight subset of processed outputs is bundled under `data/processed/`  
-(clinical and risk tables, PRS coefficients, the PRG set, single-cell  
-annotations, and the revision-round result tables) so that the figure and table  
+A lightweight subset of processed outputs is bundled under `data/processed/`
+
+(clinical and risk tables, PRS coefficients, the PRG set, single-cell
+
+annotations, and the revision-round result tables) so that the figure and table
+
 scripts can be re-run without the full matrices.
 
 ## How to reproduce
@@ -133,9 +152,12 @@ python scripts/build_supp_figures.py
 python scripts/build_supp_tables.py
 ```
 
-Steps 4-5 need the intermediate matrices produced in steps 0-3; they are the  
-only steps that require the full download. Runtime is dominated by  
-single-cell and bulk preprocessing (hours on a multicore node); the  
+Steps 4-5 need the intermediate matrices produced in steps 0-3; they are the
+
+only steps that require the full download. Runtime is dominated by
+
+single-cell and bulk preprocessing (hours on a multicore node); the
+
 PRS/figure/table steps take minutes.
 
 ## What each revision script answers
@@ -149,7 +171,9 @@ PRS/figure/table steps take minutes.
 | `r1_superpc_cv.py`             | `TCGA_ML_CV_cindex_v2.csv`, `superpc_cv.json`                                                                                                        | recovers the SuperPC fold with a convergent implementation; original table left intact                                                           |
 | `r1_sensitivity_hcc_only.py`   | `revision_sc_hcc_only*.csv/.json`                                                                                                                    | restricts GSE151530 to its 32 HCC samples (14 are iCCA)                                                                                          |
 
-Supporting tables S13 and S14 are assembled directly from the `revision_*` CSV  
+Supporting tables S13 and S14 are assembled directly from the `revision_*` CSV
+
+
 files listed above; no additional script is required.
 
 ## The PRS (ten genes, TCGA-derived coefficients)
@@ -167,19 +191,24 @@ files listed above; no additional script is required.
 | ACOXL    | -0.333      | protective |
 | PECR     | -0.433      | protective |
 
-Full coefficients: `data/processed/TCGA_PRS_coefficients.csv`; gene set:  
+Full coefficients: `data/processed/TCGA_PRS_coefficients.csv`; gene set:
+
 `data/processed/peroxisome_gene_set.json`.
 
 ## License
 
-MIT (see `LICENSE`). PLOS ONE requires author-generated code to be available  
+MIT (see `LICENSE`). PLOS ONE requires author-generated code to be available
+
 without restriction; MIT satisfies this.
 
 ## Citation
 
-> Jin G, Zhao G, You J, Li M. A peroxisome-related prognostic signature is>   
-> associated with reduced lymphocytic infiltration in hepatocellular carcinoma.>   
+> Jin G, Zhao G, You J, Li M. A peroxisome-related prognostic signature is
+>
+> associated with reduced lymphocytic infiltration in hepatocellular carcinoma.
+>
 > *PLOS ONE* (2026). DOI: 10.1371/journal.pone.XXXXXXX
 
-Code archive (all versions): <https://doi.org/10.5281/zenodo.22640219>  
+Code archive (all versions): <https://doi.org/10.5281/zenodo.22640219>
+
 Version v1.1: <https://doi.org/10.5281/zenodo.NNNNNNNN>
