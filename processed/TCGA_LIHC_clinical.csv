@@ -1,0 +1,378 @@
+patient,sample,tissue,os_time_days,os_event,age,gender,race,child_pugh,fibrosis,os_years
+tcga-2y-a9gv,tcga-2y-a9gv,normal,2532.0,1,54.0,female,,,,6.93223819301848
+tcga-2y-a9h6,tcga-2y-a9h6,normal,357.0,0,68.0,female,,,,0.9774127310061602
+tcga-2y-a9h7,tcga-2y-a9h7,normal,1133.0,0,81.0,female,,a,"3,4 - fibrous speta",3.1019849418206706
+tcga-4r-aa8i,tcga-4r-aa8i,normal,216.0,0,66.0,male,,a,6 - established cirrhosis,0.5913757700205339
+tcga-bc-a110,tcga-bc-a110,normal,2116.0,1,51.0,female,,,,5.793292265571527
+tcga-bc-a112,tcga-bc-a112,normal,153.0,1,80.0,male,,,0 - no fibrosis,0.4188911704312115
+tcga-bc-a5w4,tcga-bc-a5w4,normal,289.0,0,69.0,male,,a,,0.7912388774811773
+tcga-bd-a3er,tcga-bd-a3er,normal,146.0,0,62.0,male,,a,6 - established cirrhosis,0.3997262149212868
+tcga-bw-a5nq,tcga-bw-a5nq,normal,0.0,0,63.0,male,,,6 - established cirrhosis,0.0
+tcga-dd-a3a8,tcga-dd-a3a8,normal,11.0,1,75.0,male,,a,0 - no fibrosis,0.030116358658453114
+tcga-dd-a4nd,tcga-dd-a4nd,normal,2746.0,0,56.0,female,,a,0 - no fibrosis,7.51813826146475
+tcga-dd-a4ni,tcga-dd-a4ni,normal,816.0,0,67.0,male,,a,0 - no fibrosis,2.2340862422997945
+tcga-dd-aadv,tcga-dd-aadv,normal,230.0,0,50.0,male,,a,6 - established cirrhosis,0.6297056810403833
+tcga-dd-aae7,tcga-dd-aae7,normal,382.0,0,72.0,male,,a,"3,4 - fibrous speta",1.0458590006844628
+tcga-dd-aae8,tcga-dd-aae8,normal,344.0,0,45.0,male,,a,6 - established cirrhosis,0.9418206707734429
+tcga-dd-aaea,tcga-dd-aaea,normal,450.0,0,65.0,male,,a,"1,2 - portal fibrosis",1.2320328542094456
+tcga-dd-aaeg,tcga-dd-aaeg,normal,476.0,0,59.0,female,,a,6 - established cirrhosis,1.3032169746748803
+tcga-ep-a3jl,tcga-ep-a3jl,normal,97.0,0,76.0,male,,a,,0.2655715263518138
+tcga-es-a2hs,tcga-es-a2hs,normal,688.0,1,80.0,male,,a,0 - no fibrosis,1.8836413415468858
+tcga-fv-a3i1,tcga-fv-a3i1,normal,0.0,0,81.0,female,,,0 - no fibrosis,0.0
+tcga-fv-a3r2,tcga-fv-a3r2,normal,194.0,1,75.0,male,,,,0.5311430527036276
+tcga-fv-a4zp,tcga-fv-a4zp,normal,1836.0,0,78.0,male,,,,5.026694045174538
+tcga-g3-a25w,tcga-g3-a25w,normal,391.0,0,79.0,female,,a,0 - no fibrosis,1.0704996577686516
+tcga-g3-a3cg,tcga-g3-a3cg,normal,254.0,0,80.0,male,,a,6 - established cirrhosis,0.6954140999315537
+tcga-g3-a6uc,tcga-g3-a6uc,normal,236.0,0,65.0,male,,a,6 - established cirrhosis,0.6461327857631759
+tcga-g3-a7m9,tcga-g3-a7m9,normal,56.0,1,70.0,male,,a,6 - established cirrhosis,0.15331964407939766
+tcga-k7-a5rf,tcga-k7-a5rf,normal,240.0,0,64.0,male,,,,0.6570841889117043
+tcga-kr-a7k0,tcga-kr-a7k0,normal,65.0,1,65.0,male,,,,0.17796030116358658
+tcga-kr-a7k7,tcga-kr-a7k7,normal,951.0,0,61.0,female,,,,2.6036960985626285
+tcga-lg-a6gg,tcga-lg-a6gg,normal,15.0,0,79.0,female,,a,,0.04106776180698152
+tcga-mi-a75h,tcga-mi-a75h,normal,391.0,0,77.0,male,,b,6 - established cirrhosis,1.0704996577686516
+tcga-t1-a6j8,tcga-t1-a6j8,normal,23.0,0,68.0,male,,,,0.06297056810403832
+tcga-ub-a7mf,tcga-ub-a7mf,normal,214.0,1,56.0,male,,a,6 - established cirrhosis,0.5859000684462696
+tcga-ub-aa0v,tcga-ub-aa0v,normal,139.0,0,69.0,female,,a,0 - no fibrosis,0.3805612594113621
+tcga-xr-a8tc,tcga-xr-a8tc,normal,1339.0,0,43.0,female,,a,6 - established cirrhosis,3.6659822039698837
+tcga-xr-a8tg,tcga-xr-a8tg,normal,867.0,0,58.0,male,,,6 - established cirrhosis,2.3737166324435317
+tcga-zp-a9d1,tcga-zp-a9d1,normal,21.0,0,56.0,female,,a,5 - nodular formation and incomplete cirrhosis,0.057494866529774126
+tcga-zs-a9ce,tcga-zs-a9ce,normal,1066.0,0,79.0,female,,a,0 - no fibrosis,2.91854893908282
+tcga-2v-a95s,tcga-2v-a95s,normal,,0,,male,,a,6 - established cirrhosis,
+tcga-2y-a9gs,tcga-2y-a9gs,normal,724.0,1,58.0,male,,,,1.9822039698836413
+tcga-2y-a9gt,tcga-2y-a9gt,normal,1624.0,1,51.0,male,,c,,4.446269678302532
+tcga-2y-a9gu,tcga-2y-a9gu,normal,1569.0,0,55.0,female,,,,4.295687885010267
+tcga-2y-a9gw,tcga-2y-a9gw,normal,1271.0,1,64.0,male,,,,3.479808350444901
+tcga-2y-a9gx,tcga-2y-a9gx,normal,2442.0,0,68.0,male,,,,6.685831622176591
+tcga-2y-a9gy,tcga-2y-a9gy,normal,757.0,1,64.0,female,,,,2.0725530458590007
+tcga-2y-a9gz,tcga-2y-a9gz,normal,848.0,1,82.0,female,,a,,2.321697467488022
+tcga-2y-a9h0,tcga-2y-a9h0,normal,3675.0,0,49.0,male,,,,10.061601642710473
+tcga-2y-a9h1,tcga-2y-a9h1,normal,1229.0,1,58.0,male,,,"1,2 - portal fibrosis",3.3648186173853527
+tcga-2y-a9h2,tcga-2y-a9h2,normal,1582.0,0,64.0,female,,,,4.331279945242985
+tcga-2y-a9h3,tcga-2y-a9h3,normal,1257.0,0,45.0,male,,,"1,2 - portal fibrosis",3.4414784394250515
+tcga-2y-a9h4,tcga-2y-a9h4,normal,1270.0,0,68.0,male,,a,,3.477070499657769
+tcga-2y-a9h5,tcga-2y-a9h5,normal,555.0,1,59.0,female,,,"1,2 - portal fibrosis",1.5195071868583163
+tcga-2y-a9h8,tcga-2y-a9h8,normal,633.0,1,85.0,female,,,,1.73305954825462
+tcga-2y-a9h9,tcga-2y-a9h9,normal,456.0,0,70.0,male,,a,,1.2484599589322383
+tcga-2y-a9ha,tcga-2y-a9ha,normal,36.0,1,70.0,male,,a,"3,4 - fibrous speta",0.09856262833675565
+tcga-2y-a9hb,tcga-2y-a9hb,normal,158.0,0,66.0,male,,,,0.432580424366872
+tcga-3k-aaz8,tcga-3k-aaz8,normal,243.0,0,65.0,male,,,5 - nodular formation and incomplete cirrhosis,0.6652977412731006
+tcga-5c-a9vg,tcga-5c-a9vg,normal,328.0,0,58.0,male,,a,,0.8980150581793293
+tcga-5c-a9vh,tcga-5c-a9vh,normal,322.0,0,70.0,male,,a,,0.8815879534565366
+tcga-5c-aapd,tcga-5c-aapd,normal,20.0,0,61.0,male,,a,,0.05475701574264202
+tcga-5r-aa1c,tcga-5r-aa1c,normal,520.0,0,57.0,male,,b,"1,2 - portal fibrosis",1.4236824093086926
+tcga-5r-aa1d,tcga-5r-aa1d,normal,449.0,0,17.0,female,,b,0 - no fibrosis,1.2292950034223136
+tcga-5r-aaam,tcga-5r-aaam,normal,46.0,1,65.0,female,,a,6 - established cirrhosis,0.12594113620807665
+tcga-bc-4072,tcga-bc-4072,normal,1490.0,1,74.0,female,,,,4.079397672826831
+tcga-bc-4073,tcga-bc-4073,normal,849.0,0,73.0,male,,,,2.324435318275154
+tcga-bc-a10q,tcga-bc-a10q,normal,1135.0,1,72.0,female,,,,3.1074606433949348
+tcga-bc-a10r,tcga-bc-a10r,normal,308.0,1,66.0,female,,,,0.8432580424366872
+tcga-bc-a10s,tcga-bc-a10s,normal,1423.0,1,81.0,male,,,,3.89596167008898
+tcga-bc-a10t,tcga-bc-a10t,normal,837.0,1,76.0,male,,,"1,2 - portal fibrosis",2.291581108829569
+tcga-bc-a10u,tcga-bc-a10u,normal,837.0,1,69.0,male,,,,2.291581108829569
+tcga-bc-a10w,tcga-bc-a10w,normal,91.0,1,50.0,male,,,,0.24914442162902123
+tcga-bc-a10x,tcga-bc-a10x,normal,770.0,1,52.0,female,,,,2.108145106091718
+tcga-bc-a10y,tcga-bc-a10y,normal,711.0,1,76.0,male,,,,1.946611909650924
+tcga-bc-a10z,tcga-bc-a10z,normal,34.0,1,62.0,female,,,,0.09308692676249145
+tcga-bc-a216,tcga-bc-a216,normal,1144.0,0,62.0,female,,,0 - no fibrosis,3.132101300479124
+tcga-bc-a217,tcga-bc-a217,normal,421.0,0,75.0,female,,,0 - no fibrosis,1.1526351813826146
+tcga-bc-a3kf,tcga-bc-a3kf,normal,8.0,0,66.0,female,,,,0.02190280629705681
+tcga-bc-a3kg,tcga-bc-a3kg,normal,680.0,0,68.0,female,,,,1.8617385352498288
+tcga-bc-a69h,tcga-bc-a69h,normal,120.0,0,64.0,male,,a,,0.32854209445585214
+tcga-bc-a69i,tcga-bc-a69i,normal,16.0,0,69.0,male,,,,0.04380561259411362
+tcga-bc-a8yo,tcga-bc-a8yo,normal,227.0,0,66.0,female,,,,0.621492128678987
+tcga-bd-a2l6,tcga-bd-a2l6,normal,289.0,0,69.0,male,,a,"3,4 - fibrous speta",0.7912388774811773
+tcga-bd-a3ep,tcga-bd-a3ep,normal,409.0,0,75.0,female,,a,"1,2 - portal fibrosis",1.1197809719370295
+tcga-bw-a5no,tcga-bw-a5no,normal,20.0,0,50.0,male,,,"3,4 - fibrous speta",0.05475701574264202
+tcga-bw-a5np,tcga-bw-a5np,normal,0.0,0,26.0,female,,,"3,4 - fibrous speta",0.0
+tcga-cc-5258,tcga-cc-5258,normal,0.0,0,48.0,male,,,,0.0
+tcga-cc-5259,tcga-cc-5259,normal,5.0,0,60.0,female,,,,0.013689253935660506
+tcga-cc-5260,tcga-cc-5260,normal,0.0,0,61.0,female,,,,0.0
+tcga-cc-5261,tcga-cc-5261,normal,12.0,0,44.0,male,,,,0.03285420944558522
+tcga-cc-5262,tcga-cc-5262,normal,0.0,0,67.0,male,,,,0.0
+tcga-cc-5263,tcga-cc-5263,normal,129.0,1,35.0,male,,,,0.3531827515400411
+tcga-cc-5264,tcga-cc-5264,normal,0.0,0,71.0,male,,,,0.0
+tcga-cc-a123,tcga-cc-a123,normal,-8.0,0,24.0,female,,,,-0.02190280629705681
+tcga-cc-a1ht,tcga-cc-a1ht,normal,0.0,0,50.0,male,,,,0.0
+tcga-cc-a3m9,tcga-cc-a3m9,normal,3.0,0,45.0,male,,,,0.008213552361396304
+tcga-cc-a3ma,tcga-cc-a3ma,normal,2.0,0,61.0,male,,,,0.0054757015742642025
+tcga-cc-a3mb,tcga-cc-a3mb,normal,3.0,0,36.0,male,,,,0.008213552361396304
+tcga-cc-a3mc,tcga-cc-a3mc,normal,4.0,0,54.0,male,,,,0.010951403148528405
+tcga-cc-a5uc,tcga-cc-a5uc,normal,0.0,0,63.0,male,,,,0.0
+tcga-cc-a5ud,tcga-cc-a5ud,normal,0.0,0,45.0,male,,,,0.0
+tcga-cc-a5ue,tcga-cc-a5ue,normal,0.0,0,48.0,male,,,,0.0
+tcga-cc-a7ie,tcga-cc-a7ie,normal,0.0,0,57.0,male,,,,0.0
+tcga-cc-a7if,tcga-cc-a7if,normal,0.0,0,59.0,male,,,,0.0
+tcga-cc-a7ig,tcga-cc-a7ig,normal,0.0,0,47.0,male,,,,0.0
+tcga-cc-a7ih,tcga-cc-a7ih,normal,0.0,0,58.0,male,,,,0.0
+tcga-cc-a7ii,tcga-cc-a7ii,normal,0.0,0,54.0,male,,,,0.0
+tcga-cc-a7ij,tcga-cc-a7ij,normal,0.0,0,56.0,male,,,,0.0
+tcga-cc-a7ik,tcga-cc-a7ik,normal,0.0,0,59.0,male,,,,0.0
+tcga-cc-a7il,tcga-cc-a7il,normal,0.0,0,61.0,male,,,,0.0
+tcga-cc-a8hs,tcga-cc-a8hs,normal,0.0,0,18.0,male,,,,0.0
+tcga-cc-a8ht,tcga-cc-a8ht,normal,0.0,0,74.0,male,,,,0.0
+tcga-cc-a8hu,tcga-cc-a8hu,normal,0.0,0,39.0,female,,,,0.0
+tcga-cc-a8hv,tcga-cc-a8hv,normal,0.0,0,51.0,female,,,,0.0
+tcga-cc-a9fs,tcga-cc-a9fs,normal,0.0,0,55.0,male,,,,0.0
+tcga-cc-a9fu,tcga-cc-a9fu,normal,0.0,0,52.0,female,,,,0.0
+tcga-cc-a9fv,tcga-cc-a9fv,normal,0.0,0,57.0,male,,,,0.0
+tcga-cc-a9fw,tcga-cc-a9fw,normal,0.0,0,68.0,male,,,,0.0
+tcga-dd-a113,tcga-dd-a113,normal,1678.0,0,55.0,female,,a,0 - no fibrosis,4.594113620807666
+tcga-dd-a114,tcga-dd-a114,normal,1149.0,1,42.0,male,,a,5 - nodular formation and incomplete cirrhosis,3.1457905544147846
+tcga-dd-a115,tcga-dd-a115,normal,2542.0,1,53.0,male,,a,0 - no fibrosis,6.959616700889802
+tcga-dd-a116,tcga-dd-a116,normal,1622.0,1,68.0,male,,a,"3,4 - fibrous speta",4.440793976728268
+tcga-dd-a118,tcga-dd-a118,normal,693.0,0,77.0,female,,a,0 - no fibrosis,1.8973305954825461
+tcga-dd-a119,tcga-dd-a119,normal,223.0,1,40.0,male,,a,0 - no fibrosis,0.6105407255304586
+tcga-dd-a11a,tcga-dd-a11a,normal,79.0,0,67.0,male,,,0 - no fibrosis,0.216290212183436
+tcga-dd-a11b,tcga-dd-a11b,normal,14.0,1,73.0,male,,a,6 - established cirrhosis,0.038329911019849415
+tcga-dd-a11c,tcga-dd-a11c,normal,662.0,0,69.0,male,,a,0 - no fibrosis,1.8124572210814511
+tcga-dd-a11d,tcga-dd-a11d,normal,1560.0,1,57.0,female,,a,6 - established cirrhosis,4.271047227926078
+tcga-dd-a1e9,tcga-dd-a1e9,normal,2759.0,1,70.0,male,,a,6 - established cirrhosis,7.553730321697468
+tcga-dd-a1ea,tcga-dd-a1ea,normal,2415.0,0,68.0,male,,a,"1,2 - portal fibrosis",6.611909650924025
+tcga-dd-a1eb,tcga-dd-a1eb,normal,2017.0,0,72.0,female,,b,0 - no fibrosis,5.522245037645448
+tcga-dd-a1ec,tcga-dd-a1ec,normal,602.0,0,20.0,female,,a,0 - no fibrosis,1.648186173853525
+tcga-dd-a1ed,tcga-dd-a1ed,normal,1629.0,0,68.0,male,,a,0 - no fibrosis,4.459958932238193
+tcga-dd-a1ee,tcga-dd-a1ee,normal,204.0,0,73.0,male,,b,6 - established cirrhosis,0.5585215605749486
+tcga-dd-a1ef,tcga-dd-a1ef,normal,394.0,1,57.0,female,,b,"3,4 - fibrous speta",1.0787132101300478
+tcga-dd-a1eg,tcga-dd-a1eg,normal,1372.0,1,76.0,male,,a,"1,2 - portal fibrosis",3.756331279945243
+tcga-dd-a1eh,tcga-dd-a1eh,normal,1036.0,0,23.0,male,,b,"3,4 - fibrous speta",2.836413415468857
+tcga-dd-a1ei,tcga-dd-a1ei,normal,183.0,0,46.0,male,,b,6 - established cirrhosis,0.5010266940451745
+tcga-dd-a1ej,tcga-dd-a1ej,normal,887.0,0,71.0,female,,b,0 - no fibrosis,2.428473648186174
+tcga-dd-a1ek,tcga-dd-a1ek,normal,558.0,1,64.0,female,,a,0 - no fibrosis,1.5277207392197125
+tcga-dd-a1el,tcga-dd-a1el,normal,415.0,1,23.0,male,,a,0 - no fibrosis,1.136208076659822
+tcga-dd-a39v,tcga-dd-a39v,normal,643.0,1,77.0,male,,a,0 - no fibrosis,1.7604380561259412
+tcga-dd-a39w,tcga-dd-a39w,normal,827.0,1,29.0,female,,,,2.2642026009582477
+tcga-dd-a39x,tcga-dd-a39x,normal,1694.0,1,78.0,female,,a,0 - no fibrosis,4.63791923340178
+tcga-dd-a39y,tcga-dd-a39y,normal,171.0,1,67.0,male,,a,0 - no fibrosis,0.4681724845995893
+tcga-dd-a39z,tcga-dd-a39z,normal,601.0,1,43.0,female,,b,,1.6454483230663928
+tcga-dd-a3a0,tcga-dd-a3a0,normal,785.0,1,70.0,male,,a,0 - no fibrosis,2.1492128678986995
+tcga-dd-a3a1,tcga-dd-a3a1,normal,233.0,1,65.0,male,,a,0 - no fibrosis,0.6379192334017796
+tcga-dd-a3a2,tcga-dd-a3a2,normal,2131.0,1,76.0,female,,a,0 - no fibrosis,5.834360027378508
+tcga-dd-a3a3,tcga-dd-a3a3,normal,535.0,1,45.0,male,,b,0 - no fibrosis,1.4647501711156743
+tcga-dd-a3a4,tcga-dd-a3a4,normal,612.0,1,37.0,male,,b,0 - no fibrosis,1.675564681724846
+tcga-dd-a3a5,tcga-dd-a3a5,normal,3125.0,1,66.0,female,,a,0 - no fibrosis,8.555783709787816
+tcga-dd-a3a6,tcga-dd-a3a6,normal,3258.0,1,72.0,female,,a,0 - no fibrosis,8.919917864476385
+tcga-dd-a3a7,tcga-dd-a3a7,normal,419.0,1,67.0,male,,,0 - no fibrosis,1.1471594798083504
+tcga-dd-a3a9,tcga-dd-a3a9,normal,931.0,1,64.0,female,,a,0 - no fibrosis,2.5489390828199863
+tcga-dd-a4na,tcga-dd-a4na,normal,1008.0,0,67.0,female,,,5 - nodular formation and incomplete cirrhosis,2.759753593429158
+tcga-dd-a4nb,tcga-dd-a4nb,normal,989.0,0,25.0,male,,,,2.707734428473648
+tcga-dd-a4ne,tcga-dd-a4ne,normal,660.0,1,75.0,female,,a,0 - no fibrosis,1.8069815195071868
+tcga-dd-a4nf,tcga-dd-a4nf,normal,942.0,0,72.0,male,,a,6 - established cirrhosis,2.5790554414784395
+tcga-dd-a4ng,tcga-dd-a4ng,normal,445.0,0,77.0,male,,a,,1.218343600273785
+tcga-dd-a4nh,tcga-dd-a4nh,normal,917.0,0,65.0,female,,a,"1,2 - portal fibrosis",2.510609171800137
+tcga-dd-a4nj,tcga-dd-a4nj,normal,928.0,0,54.0,female,,a,"1,2 - portal fibrosis",2.54072553045859
+tcga-dd-a4nk,tcga-dd-a4nk,normal,1210.0,1,80.0,female,,a,0 - no fibrosis,3.3127994524298425
+tcga-dd-a4nl,tcga-dd-a4nl,normal,1711.0,0,46.0,male,,,0 - no fibrosis,4.684462696783025
+tcga-dd-a4nn,tcga-dd-a4nn,normal,899.0,1,56.0,female,,a,0 - no fibrosis,2.461327857631759
+tcga-dd-a4no,tcga-dd-a4no,normal,1869.0,0,65.0,male,,a,0 - no fibrosis,5.117043121149897
+tcga-dd-a4np,tcga-dd-a4np,normal,3308.0,0,32.0,male,,b,0 - no fibrosis,9.05681040383299
+tcga-dd-a4nq,tcga-dd-a4nq,normal,373.0,1,60.0,male,,a,,1.0212183436002737
+tcga-dd-a4nr,tcga-dd-a4nr,normal,9.0,1,85.0,female,,a,6 - established cirrhosis,0.024640657084188913
+tcga-dd-a4ns,tcga-dd-a4ns,normal,2456.0,1,61.0,female,,,0 - no fibrosis,6.72416153319644
+tcga-dd-a4nv,tcga-dd-a4nv,normal,2398.0,0,61.0,male,,a,0 - no fibrosis,6.565366187542779
+tcga-dd-a73a,tcga-dd-a73a,normal,334.0,0,71.0,male,,a,"3,4 - fibrous speta",0.9144421629021219
+tcga-dd-a73b,tcga-dd-a73b,normal,283.0,1,72.0,female,,b,6 - established cirrhosis,0.7748117727583846
+tcga-dd-a73c,tcga-dd-a73c,normal,230.0,0,65.0,female,,a,0 - no fibrosis,0.6297056810403833
+tcga-dd-a73d,tcga-dd-a73d,normal,334.0,0,68.0,female,,a,6 - established cirrhosis,0.9144421629021219
+tcga-dd-a73e,tcga-dd-a73e,normal,44.0,0,66.0,male,,a,0 - no fibrosis,0.12046543463381246
+tcga-dd-a73f,tcga-dd-a73f,normal,1085.0,0,77.0,female,,a,0 - no fibrosis,2.97056810403833
+tcga-dd-a73g,tcga-dd-a73g,normal,3071.0,0,73.0,female,,a,0 - no fibrosis,8.407939767282683
+tcga-dd-aa3a,tcga-dd-aa3a,normal,410.0,1,81.0,female,,a,0 - no fibrosis,1.1225188227241616
+tcga-dd-aac8,tcga-dd-aac8,normal,16.0,1,72.0,male,,a,"1,2 - portal fibrosis",0.04380561259411362
+tcga-dd-aac9,tcga-dd-aac9,normal,347.0,0,51.0,male,,a,6 - established cirrhosis,0.9500342231348392
+tcga-dd-aaca,tcga-dd-aaca,normal,2000.0,0,65.0,male,,a,6 - established cirrhosis,5.475701574264202
+tcga-dd-aacb,tcga-dd-aacb,normal,1800.0,0,74.0,female,,a,6 - established cirrhosis,4.9281314168377826
+tcga-dd-aacc,tcga-dd-aacc,normal,1685.0,1,61.0,male,,a,6 - established cirrhosis,4.61327857631759
+tcga-dd-aacd,tcga-dd-aacd,normal,381.0,1,48.0,male,,a,"1,2 - portal fibrosis",1.0431211498973305
+tcga-dd-aace,tcga-dd-aace,normal,1931.0,0,62.0,male,,a,6 - established cirrhosis,5.286789869952088
+tcga-dd-aacf,tcga-dd-aacf,normal,365.0,1,68.0,male,,a,6 - established cirrhosis,0.999315537303217
+tcga-dd-aacg,tcga-dd-aacg,normal,469.0,1,52.0,male,,a,6 - established cirrhosis,1.2840520191649556
+tcga-dd-aach,tcga-dd-aach,normal,195.0,1,69.0,male,,a,6 - established cirrhosis,0.5338809034907598
+tcga-dd-aaci,tcga-dd-aaci,normal,1618.0,0,69.0,male,,a,5 - nodular formation and incomplete cirrhosis,4.42984257357974
+tcga-dd-aacj,tcga-dd-aacj,normal,1828.0,0,75.0,male,,a,,5.004791238877481
+tcga-dd-aack,tcga-dd-aack,normal,9.0,0,70.0,male,,a,6 - established cirrhosis,0.024640657084188913
+tcga-dd-aacl,tcga-dd-aacl,normal,58.0,0,66.0,female,,a,,0.15879534565366188
+tcga-dd-aacm,tcga-dd-aacm,normal,1769.0,0,48.0,male,,a,"3,4 - fibrous speta",4.843258042436688
+tcga-dd-aacn,tcga-dd-aacn,normal,1292.0,0,32.0,male,,a,,3.5373032169746748
+tcga-dd-aaco,tcga-dd-aaco,normal,1485.0,0,40.0,male,,a,6 - established cirrhosis,4.0657084188911705
+tcga-dd-aacp,tcga-dd-aacp,normal,400.0,0,64.0,male,,a,,1.0951403148528405
+tcga-dd-aacq,tcga-dd-aacq,normal,429.0,0,50.0,male,,a,,1.1745379876796715
+tcga-dd-aacs,tcga-dd-aacs,normal,1475.0,0,39.0,male,,a,,4.03832991101985
+tcga-dd-aact,tcga-dd-aact,normal,1291.0,0,69.0,female,,a,,3.5345653661875427
+tcga-dd-aacu,tcga-dd-aacu,normal,1240.0,0,59.0,male,,a,,3.3949349760438055
+tcga-dd-aacv,tcga-dd-aacv,normal,1210.0,0,53.0,male,,a,,3.3127994524298425
+tcga-dd-aacw,tcga-dd-aacw,normal,1157.0,0,43.0,male,,a,,3.167693360711841
+tcga-dd-aacx,tcga-dd-aacx,normal,170.0,0,66.0,male,,a,"3,4 - fibrous speta",0.4654346338124572
+tcga-dd-aacy,tcga-dd-aacy,normal,1140.0,0,61.0,male,,a,"3,4 - fibrous speta",3.1211498973305956
+tcga-dd-aacz,tcga-dd-aacz,normal,171.0,1,63.0,female,,a,,0.4681724845995893
+tcga-dd-aad0,tcga-dd-aad0,normal,137.0,0,73.0,female,,a,,0.3750855578370979
+tcga-dd-aad1,tcga-dd-aad1,normal,564.0,0,51.0,female,,a,,1.5441478439425051
+tcga-dd-aad2,tcga-dd-aad2,normal,658.0,0,66.0,male,,a,"1,2 - portal fibrosis",1.8015058179329226
+tcga-dd-aad3,tcga-dd-aad3,normal,1029.0,0,43.0,male,,a,"1,2 - portal fibrosis",2.817248459958932
+tcga-dd-aad5,tcga-dd-aad5,normal,1037.0,0,54.0,male,,a,"3,4 - fibrous speta",2.839151266255989
+tcga-dd-aad6,tcga-dd-aad6,normal,672.0,0,66.0,male,,a,,1.839835728952772
+tcga-dd-aad8,tcga-dd-aad8,normal,959.0,0,73.0,female,,a,"1,2 - portal fibrosis",2.625598904859685
+tcga-dd-aada,tcga-dd-aada,normal,930.0,0,66.0,female,,a,,2.546201232032854
+tcga-dd-aadb,tcga-dd-aadb,normal,890.0,0,51.0,male,,a,,2.43668720054757
+tcga-dd-aadc,tcga-dd-aadc,normal,425.0,1,53.0,male,,a,,1.163586584531143
+tcga-dd-aadd,tcga-dd-aadd,normal,864.0,0,51.0,male,,a,,2.3655030800821355
+tcga-dd-aade,tcga-dd-aade,normal,918.0,0,50.0,male,,a,"3,4 - fibrous speta",2.513347022587269
+tcga-dd-aadf,tcga-dd-aadf,normal,115.0,1,64.0,female,,a,,0.31485284052019163
+tcga-dd-aadg,tcga-dd-aadg,normal,808.0,0,70.0,male,,a,"3,4 - fibrous speta",2.212183436002738
+tcga-dd-aadi,tcga-dd-aadi,normal,763.0,0,43.0,female,,a,,2.088980150581793
+tcga-dd-aadj,tcga-dd-aadj,normal,730.0,0,70.0,female,,a,,1.998631074606434
+tcga-dd-aadk,tcga-dd-aadk,normal,734.0,0,68.0,female,,a,6 - established cirrhosis,2.0095824777549622
+tcga-dd-aadl,tcga-dd-aadl,normal,636.0,0,58.0,male,,a,,1.7412731006160165
+tcga-dd-aadm,tcga-dd-aadm,normal,12.0,1,58.0,male,,a,,0.03285420944558522
+tcga-dd-aadn,tcga-dd-aadn,normal,527.0,0,59.0,male,,a,,1.4428473648186173
+tcga-dd-aado,tcga-dd-aado,normal,92.0,0,55.0,male,,a,,0.2518822724161533
+tcga-dd-aadp,tcga-dd-aadp,normal,120.0,0,45.0,male,,a,,0.32854209445585214
+tcga-dd-aadq,tcga-dd-aadq,normal,161.0,0,59.0,male,,a,,0.4407939767282683
+tcga-dd-aadr,tcga-dd-aadr,normal,1742.0,0,58.0,male,,a,6 - established cirrhosis,4.769336071184121
+tcga-dd-aads,tcga-dd-aads,normal,216.0,0,63.0,male,,a,,0.5913757700205339
+tcga-dd-aadu,tcga-dd-aadu,normal,252.0,0,60.0,male,,a,"3,4 - fibrous speta",0.6899383983572895
+tcga-dd-aadw,tcga-dd-aadw,normal,203.0,0,48.0,male,,a,6 - established cirrhosis,0.5557837097878165
+tcga-dd-aady,tcga-dd-aady,normal,294.0,0,55.0,female,,a,6 - established cirrhosis,0.8049281314168378
+tcga-dd-aae0,tcga-dd-aae0,normal,300.0,0,45.0,female,,a,"3,4 - fibrous speta",0.8213552361396304
+tcga-dd-aae1,tcga-dd-aae1,normal,293.0,0,52.0,male,,a,6 - established cirrhosis,0.8021902806297057
+tcga-dd-aae2,tcga-dd-aae2,normal,288.0,0,51.0,male,,a,6 - established cirrhosis,0.7885010266940452
+tcga-dd-aae3,tcga-dd-aae3,normal,300.0,0,50.0,male,,a,"1,2 - portal fibrosis",0.8213552361396304
+tcga-dd-aae4,tcga-dd-aae4,normal,259.0,0,49.0,female,,a,6 - established cirrhosis,0.7091033538672142
+tcga-dd-aae6,tcga-dd-aae6,normal,141.0,0,59.0,female,,a,6 - established cirrhosis,0.3860369609856263
+tcga-dd-aae9,tcga-dd-aae9,normal,386.0,0,69.0,male,,a,"1,2 - portal fibrosis",1.056810403832991
+tcga-dd-aaeb,tcga-dd-aaeb,normal,370.0,0,60.0,male,,a,,1.0130047912388775
+tcga-dd-aaed,tcga-dd-aaed,normal,470.0,0,51.0,male,,a,"1,2 - portal fibrosis",1.2867898699520877
+tcga-dd-aaee,tcga-dd-aaee,normal,498.0,0,55.0,male,,a,6 - established cirrhosis,1.3634496919917864
+tcga-dd-aaeh,tcga-dd-aaeh,normal,476.0,0,73.0,male,,a,"1,2 - portal fibrosis",1.3032169746748803
+tcga-dd-aaei,tcga-dd-aaei,normal,1233.0,0,72.0,male,,a,6 - established cirrhosis,3.375770020533881
+tcga-dd-aaek,tcga-dd-aaek,normal,1067.0,0,51.0,male,,a,6 - established cirrhosis,2.921286789869952
+tcga-dd-aavp,tcga-dd-aavp,normal,2405.0,0,48.0,male,,a,6 - established cirrhosis,6.584531143052704
+tcga-dd-aavq,tcga-dd-aavq,normal,2406.0,0,38.0,male,,a,6 - established cirrhosis,6.587268993839836
+tcga-dd-aavr,tcga-dd-aavr,normal,2198.0,0,44.0,male,,a,6 - established cirrhosis,6.017796030116359
+tcga-dd-aavs,tcga-dd-aavs,normal,1823.0,0,56.0,male,,a,"3,4 - fibrous speta",4.991101984941821
+tcga-dd-aavu,tcga-dd-aavu,normal,1882.0,0,46.0,male,,a,"3,4 - fibrous speta",5.152635181382615
+tcga-dd-aavv,tcga-dd-aavv,normal,2455.0,0,56.0,male,,a,"3,4 - fibrous speta",6.721423682409308
+tcga-dd-aavw,tcga-dd-aavw,normal,1867.0,0,35.0,male,,a,6 - established cirrhosis,5.111567419575633
+tcga-dd-aavx,tcga-dd-aavx,normal,1718.0,0,38.0,male,,a,6 - established cirrhosis,4.70362765229295
+tcga-dd-aavy,tcga-dd-aavy,normal,1788.0,0,56.0,male,,a,0 - no fibrosis,4.895277207392197
+tcga-dd-aavz,tcga-dd-aavz,normal,1699.0,0,38.0,male,,a,6 - established cirrhosis,4.65160848733744
+tcga-dd-aaw0,tcga-dd-aaw0,normal,1644.0,0,54.0,male,,a,"3,4 - fibrous speta",4.501026694045175
+tcga-dd-aaw1,tcga-dd-aaw1,normal,1644.0,0,55.0,male,,a,6 - established cirrhosis,4.501026694045175
+tcga-dd-aaw2,tcga-dd-aaw2,normal,1505.0,0,69.0,male,,a,6 - established cirrhosis,4.120465434633813
+tcga-dd-aaw3,tcga-dd-aaw3,normal,1451.0,0,69.0,male,,,0 - no fibrosis,3.972621492128679
+tcga-ed-a459,tcga-ed-a459,normal,910.0,0,47.0,male,,,,2.4914442162902124
+tcga-ed-a4xi,tcga-ed-a4xi,normal,819.0,0,58.0,male,,,,2.242299794661191
+tcga-ed-a5kg,tcga-ed-a5kg,normal,854.0,0,60.0,female,,,,2.3381245722108144
+tcga-ed-a627,tcga-ed-a627,normal,0.0,0,74.0,male,,,,0.0
+tcga-ed-a66x,tcga-ed-a66x,normal,6.0,0,35.0,male,,,,0.01642710472279261
+tcga-ed-a66y,tcga-ed-a66y,normal,7.0,0,51.0,female,,,,0.019164955509924708
+tcga-ed-a7px,tcga-ed-a7px,normal,6.0,0,48.0,female,,,,0.01642710472279261
+tcga-ed-a7py,tcga-ed-a7py,normal,6.0,0,20.0,female,,,,0.01642710472279261
+tcga-ed-a7pz,tcga-ed-a7pz,normal,6.0,0,61.0,male,,,,0.01642710472279261
+tcga-ed-a7xo,tcga-ed-a7xo,normal,6.0,0,29.0,male,,,,0.01642710472279261
+tcga-ed-a7xp,tcga-ed-a7xp,normal,6.0,0,53.0,female,,,,0.01642710472279261
+tcga-ed-a82e,tcga-ed-a82e,normal,6.0,0,60.0,female,,,,0.01642710472279261
+tcga-ed-a8o5,tcga-ed-a8o5,normal,6.0,0,59.0,female,,,,0.01642710472279261
+tcga-ed-a8o6,tcga-ed-a8o6,normal,6.0,0,50.0,female,,,,0.01642710472279261
+tcga-ed-a97k,tcga-ed-a97k,normal,6.0,0,54.0,male,,,,0.01642710472279261
+tcga-ep-a12j,tcga-ep-a12j,normal,570.0,0,62.0,male,,b,,1.5605749486652978
+tcga-ep-a26s,tcga-ep-a26s,normal,608.0,0,70.0,male,,,0 - no fibrosis,1.6646132785763177
+tcga-ep-a2ka,tcga-ep-a2ka,normal,111.0,0,52.0,female,,,"1,2 - portal fibrosis",0.30390143737166325
+tcga-ep-a2kb,tcga-ep-a2kb,normal,60.0,0,46.0,female,,a,,0.16427104722792607
+tcga-ep-a2kc,tcga-ep-a2kc,normal,19.0,1,62.0,male,,a,,0.05201916495550993
+tcga-ep-a3rk,tcga-ep-a3rk,normal,13.0,0,73.0,male,,a,"1,2 - portal fibrosis",0.03559206023271732
+tcga-es-a2ht,tcga-es-a2ht,normal,438.0,1,54.0,male,,a,0 - no fibrosis,1.1991786447638604
+tcga-fv-a23b,tcga-fv-a23b,normal,987.0,0,70.0,female,,,,2.702258726899384
+tcga-fv-a2qq,tcga-fv-a2qq,normal,0.0,0,80.0,male,,,,0.0
+tcga-fv-a2qr,tcga-fv-a2qr,normal,581.0,1,75.0,male,,,,1.5906913073237507
+tcga-fv-a3i0,tcga-fv-a3i0,normal,6.0,0,76.0,female,,,,0.01642710472279261
+tcga-fv-a3r3,tcga-fv-a3r3,normal,4.0,0,38.0,female,,,,0.010951403148528405
+tcga-fv-a495,tcga-fv-a495,normal,1.0,0,51.0,female,,,"3,4 - fibrous speta",0.0027378507871321013
+tcga-fv-a496,tcga-fv-a496,normal,10.0,0,84.0,female,,,0 - no fibrosis,0.02737850787132101
+tcga-fv-a4zq,tcga-fv-a4zq,normal,12.0,0,52.0,male,,,,0.03285420944558522
+tcga-g3-a25s,tcga-g3-a25s,normal,37.0,0,64.0,male,,a,6 - established cirrhosis,0.10130047912388775
+tcga-g3-a25t,tcga-g3-a25t,normal,1175.0,0,45.0,female,,a,0 - no fibrosis,3.216974674880219
+tcga-g3-a25u,tcga-g3-a25u,normal,1231.0,0,63.0,female,,a,0 - no fibrosis,3.370294318959617
+tcga-g3-a25v,tcga-g3-a25v,normal,69.0,0,68.0,male,,a,6 - established cirrhosis,0.188911704312115
+tcga-g3-a25x,tcga-g3-a25x,normal,1359.0,0,73.0,male,,a,"1,2 - portal fibrosis",3.7207392197125255
+tcga-g3-a25y,tcga-g3-a25y,normal,452.0,1,52.0,female,,a,"3,4 - fibrous speta",1.2375085557837098
+tcga-g3-a25z,tcga-g3-a25z,normal,269.0,0,58.0,male,,a,5 - nodular formation and incomplete cirrhosis,0.7364818617385352
+tcga-g3-a3ch,tcga-g3-a3ch,normal,193.0,0,53.0,male,,a,6 - established cirrhosis,0.5284052019164955
+tcga-g3-a3ci,tcga-g3-a3ci,normal,180.0,0,71.0,male,,a,0 - no fibrosis,0.4928131416837782
+tcga-g3-a3cj,tcga-g3-a3cj,normal,136.0,0,52.0,male,,a,5 - nodular formation and incomplete cirrhosis,0.3723477070499658
+tcga-g3-a3ck,tcga-g3-a3ck,normal,27.0,0,61.0,male,,a,6 - established cirrhosis,0.07392197125256673
+tcga-g3-a5si,tcga-g3-a5si,normal,447.0,0,44.0,male,,a,6 - established cirrhosis,1.2238193018480492
+tcga-g3-a5sj,tcga-g3-a5sj,normal,364.0,0,59.0,male,,b,6 - established cirrhosis,0.9965776865160849
+tcga-g3-a5sk,tcga-g3-a5sk,normal,302.0,0,58.0,male,,a,6 - established cirrhosis,0.8268309377138946
+tcga-g3-a5sl,tcga-g3-a5sl,normal,243.0,0,70.0,male,,,0 - no fibrosis,0.6652977412731006
+tcga-g3-a5sm,tcga-g3-a5sm,normal,133.0,0,58.0,male,,a,6 - established cirrhosis,0.36413415468856947
+tcga-g3-a7m5,tcga-g3-a7m5,normal,0.0,0,76.0,male,,a,0 - no fibrosis,0.0
+tcga-g3-a7m6,tcga-g3-a7m6,normal,366.0,0,60.0,female,,a,"1,2 - portal fibrosis",1.002053388090349
+tcga-g3-a7m7,tcga-g3-a7m7,normal,182.0,0,65.0,male,,a,"3,4 - fibrous speta",0.49828884325804246
+tcga-g3-a7m8,tcga-g3-a7m8,normal,0.0,0,31.0,male,,a,6 - established cirrhosis,0.0
+tcga-g3-aauz,tcga-g3-aauz,normal,342.0,0,48.0,male,,a,"1,2 - portal fibrosis",0.9363449691991786
+tcga-g3-aav0,tcga-g3-aav0,normal,260.0,0,58.0,male,,a,0 - no fibrosis,0.7118412046543463
+tcga-g3-aav1,tcga-g3-aav1,normal,359.0,1,51.0,male,,b,6 - established cirrhosis,0.9828884325804244
+tcga-g3-aav2,tcga-g3-aav2,normal,295.0,0,50.0,male,,a,6 - established cirrhosis,0.8076659822039699
+tcga-g3-aav3,tcga-g3-aav3,normal,279.0,0,58.0,female,,a,6 - established cirrhosis,0.7638603696098563
+tcga-g3-aav4,tcga-g3-aav4,normal,27.0,1,83.0,female,,a,"3,4 - fibrous speta",0.07392197125256673
+tcga-g3-aav5,tcga-g3-aav5,normal,266.0,0,67.0,male,,a,6 - established cirrhosis,0.7282683093771389
+tcga-g3-aav6,tcga-g3-aav6,normal,65.0,1,53.0,female,,a,0 - no fibrosis,0.17796030116358658
+tcga-g3-aav7,tcga-g3-aav7,normal,92.0,0,38.0,male,,a,5 - nodular formation and incomplete cirrhosis,0.2518822724161533
+tcga-gj-a3ou,tcga-gj-a3ou,normal,697.0,0,59.0,male,,,,1.9082819986310746
+tcga-gj-a6c0,tcga-gj-a6c0,normal,31.0,1,75.0,female,,,,0.08487337440109514
+tcga-gj-a9db,tcga-gj-a9db,normal,67.0,1,68.0,male,,,,0.1834360027378508
+tcga-hp-a5mz,tcga-hp-a5mz,normal,91.0,1,78.0,male,,,,0.24914442162902123
+tcga-hp-a5n0,tcga-hp-a5n0,normal,1147.0,1,90.0,female,,,0 - no fibrosis,3.14031485284052
+tcga-k7-a5rg,tcga-k7-a5rg,normal,120.0,0,66.0,male,,,,0.32854209445585214
+tcga-k7-a6g5,tcga-k7-a6g5,normal,122.0,0,66.0,male,,,,0.33401779603011633
+tcga-k7-aau7,tcga-k7-aau7,normal,113.0,0,61.0,male,,a,,0.30937713894592744
+tcga-kr-a7k2,tcga-kr-a7k2,normal,829.0,0,64.0,male,,,,2.269678302532512
+tcga-kr-a7k8,tcga-kr-a7k8,normal,741.0,0,57.0,male,,,,2.028747433264887
+tcga-lg-a9qc,tcga-lg-a9qc,normal,180.0,0,48.0,male,,,,0.4928131416837782
+tcga-lg-a9qd,tcga-lg-a9qd,normal,130.0,0,68.0,male,,,,0.35592060232717315
+tcga-mi-a75c,tcga-mi-a75c,normal,291.0,0,64.0,male,,a,,0.7967145790554415
+tcga-mi-a75e,tcga-mi-a75e,normal,155.0,0,61.0,male,,a,"1,2 - portal fibrosis",0.4243668720054757
+tcga-mi-a75g,tcga-mi-a75g,normal,433.0,0,63.0,male,,b,6 - established cirrhosis,1.1854893908281998
+tcga-mi-a75i,tcga-mi-a75i,normal,265.0,0,61.0,male,,a,,0.7255304585900069
+tcga-mr-a520,tcga-mr-a520,normal,19.0,0,58.0,male,,,,0.05201916495550993
+tcga-mr-a8jo,tcga-mr-a8jo,normal,52.0,0,34.0,male,,,,0.14236824093086928
+tcga-ni-a4u2,tcga-ni-a4u2,normal,1791.0,1,71.0,male,,,"1,2 - portal fibrosis",4.903490759753593
+tcga-ni-a8lf,tcga-ni-a8lf,normal,799.0,0,74.0,male,,,,2.187542778918549
+tcga-o8-a75v,tcga-o8-a75v,normal,135.0,0,54.0,male,,a,6 - established cirrhosis,0.36960985626283366
+tcga-pd-a5df,tcga-pd-a5df,normal,639.0,1,58.0,female,,,,1.7494866529774127
+tcga-qa-a7b7,tcga-qa-a7b7,normal,62.0,0,48.0,male,,a,0 - no fibrosis,0.1697467488021903
+tcga-rc-a6m3,tcga-rc-a6m3,normal,0.0,0,24.0,male,,,,0.0
+tcga-rc-a6m4,tcga-rc-a6m4,normal,22.0,0,74.0,female,,a,,0.06023271731690623
+tcga-rc-a6m5,tcga-rc-a6m5,normal,15.0,0,20.0,female,,a,,0.04106776180698152
+tcga-rc-a6m6,tcga-rc-a6m6,normal,9.0,0,75.0,male,,b,,0.024640657084188913
+tcga-rc-a7s9,tcga-rc-a7s9,normal,640.0,0,47.0,female,,a,6 - established cirrhosis,1.7522245037645447
+tcga-rc-a7sb,tcga-rc-a7sb,normal,588.0,0,53.0,male,,b,0 - no fibrosis,1.6098562628336757
+tcga-rc-a7sf,tcga-rc-a7sf,normal,579.0,0,66.0,male,,a,"3,4 - fibrous speta",1.5852156057494866
+tcga-rc-a7sh,tcga-rc-a7sh,normal,468.0,0,42.0,male,,a,"3,4 - fibrous speta",1.2813141683778233
+tcga-rc-a7sk,tcga-rc-a7sk,normal,472.0,0,59.0,male,,a,"1,2 - portal fibrosis",1.2922655715263518
+tcga-rg-a7d4,tcga-rg-a7d4,normal,734.0,0,69.0,male,,a,,2.0095824777549622
+tcga-ub-a7ma,tcga-ub-a7ma,normal,848.0,0,62.0,female,,a,0 - no fibrosis,2.321697467488022
+tcga-ub-a7mb,tcga-ub-a7mb,normal,526.0,0,24.0,male,,a,0 - no fibrosis,1.4401095140314852
+tcga-ub-a7mc,tcga-ub-a7mc,normal,438.0,0,59.0,male,,a,"1,2 - portal fibrosis",1.1991786447638604
+tcga-ub-a7md,tcga-ub-a7md,normal,52.0,1,67.0,male,,a,6 - established cirrhosis,0.14236824093086928
+tcga-ub-a7me,tcga-ub-a7me,normal,486.0,0,51.0,male,,b,"1,2 - portal fibrosis",1.3305954825462012
+tcga-ub-aa0u,tcga-ub-aa0u,normal,253.0,0,60.0,male,,a,0 - no fibrosis,0.6926762491444216
+tcga-wj-a86l,tcga-wj-a86l,normal,31.0,0,68.0,female,,a,0 - no fibrosis,0.08487337440109514
+tcga-wq-a9g7,tcga-wq-a9g7,normal,30.0,0,71.0,female,,,,0.08213552361396304
+tcga-wq-ab4b,tcga-wq-ab4b,normal,122.0,0,62.0,male,,a,,0.33401779603011633
+tcga-wx-aa44,tcga-wx-aa44,normal,473.0,0,64.0,female,,a,6 - established cirrhosis,1.2950034223134839
+tcga-wx-aa46,tcga-wx-aa46,normal,553.0,0,61.0,male,,a,0 - no fibrosis,1.514031485284052
+tcga-wx-aa47,tcga-wx-aa47,normal,556.0,1,33.0,female,,a,0 - no fibrosis,1.5222450376454484
+tcga-xr-a8td,tcga-xr-a8td,normal,1030.0,0,49.0,female,,a,0 - no fibrosis,2.8199863107460645
+tcga-xr-a8te,tcga-xr-a8te,normal,925.0,0,16.0,male,,,0 - no fibrosis,2.532511978097194
+tcga-xr-a8tf,tcga-xr-a8tf,normal,693.0,1,74.0,male,,a,"3,4 - fibrous speta",1.8973305954825461
+tcga-ya-a8s7,tcga-ya-a8s7,normal,412.0,1,68.0,male,,,,1.1279945242984257
+tcga-zp-a9cv,tcga-zp-a9cv,normal,142.0,0,59.0,male,,a,,0.3887748117727584
+tcga-zp-a9cy,tcga-zp-a9cy,normal,782.0,0,66.0,female,,a,6 - established cirrhosis,2.1409993155373033
+tcga-zp-a9cz,tcga-zp-a9cz,normal,706.0,0,72.0,male,,a,"3,4 - fibrous speta",1.9329226557152634
+tcga-zp-a9d0,tcga-zp-a9d0,normal,1091.0,0,67.0,female,,a,0 - no fibrosis,2.9869952087611225
+tcga-zp-a9d2,tcga-zp-a9d2,normal,743.0,0,51.0,male,,a,"1,2 - portal fibrosis",2.0342231348391513
+tcga-zp-a9d4,tcga-zp-a9d4,normal,395.0,0,64.0,female,,a,0 - no fibrosis,1.08145106091718
+tcga-zs-a9cd,tcga-zs-a9cd,normal,1386.0,1,73.0,male,,a,5 - nodular formation and incomplete cirrhosis,3.7946611909650922
+tcga-zs-a9cf,tcga-zs-a9cf,normal,2258.0,0,64.0,male,,,0 - no fibrosis,6.182067077344285
+tcga-zs-a9cg,tcga-zs-a9cg,normal,250.0,0,55.0,male,,a,0 - no fibrosis,0.6844626967830253

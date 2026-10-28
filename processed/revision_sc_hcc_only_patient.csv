@@ -1,0 +1,3 @@
+subset,n_patients_paired,mean_diff_malignant_minus_hepatocyte,n_patients_malignant_lower,n_patients_malignant_higher,wilcoxon_p
+HCC,22,0.059439675188490644,3,19,0.018956661224365234
+iCCA,7,-0.04960765995738692,4,3,0.375

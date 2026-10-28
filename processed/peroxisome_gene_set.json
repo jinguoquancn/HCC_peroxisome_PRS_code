@@ -1,0 +1,868 @@
+{
+ "genes": [
+  "ABCD1",
+  "ABCD2",
+  "ABCD3",
+  "ABCD4",
+  "ACAA1",
+  "ACAD11",
+  "ACBD4",
+  "ACBD5",
+  "ACOT1",
+  "ACOT2",
+  "ACOT4",
+  "ACOT6",
+  "ACOT8",
+  "ACOX1",
+  "ACOX2",
+  "ACOX3",
+  "ACOXL",
+  "AGPS",
+  "AGXT",
+  "AIMP1",
+  "ALDH3A2",
+  "AMACR",
+  "AOC1",
+  "APOA1",
+  "APOE",
+  "ATAD1",
+  "BAAT",
+  "CAT",
+  "CLN3",
+  "CRAT",
+  "CROT",
+  "DAO",
+  "DDO",
+  "DECR1",
+  "DECR2",
+  "DEPP1",
+  "DHCR24",
+  "DHRS4",
+  "DOHH",
+  "ECH1",
+  "ECI2",
+  "EHHADH",
+  "EPHX2",
+  "FAR1",
+  "FAR2",
+  "FDFT1",
+  "FDPS",
+  "FIS1",
+  "FMO1",
+  "GDAP1",
+  "GNPAT",
+  "GPD1",
+  "GPX1",
+  "GRHPR",
+  "GSTK1",
+  "GSTZ1",
+  "HACL1",
+  "HAO1",
+  "HAO2",
+  "HMGCL",
+  "HMGCLL1",
+  "HMGCR",
+  "HMGCS1",
+  "HSD17B4",
+  "HSDL2",
+  "IDE",
+  "IDH1",
+  "IDI1",
+  "IDI2",
+  "LONP2",
+  "MAOA",
+  "MAOB",
+  "MAPKBP1",
+  "MFF",
+  "MFP2",
+  "MLYCD",
+  "MPV17",
+  "MTARC2",
+  "MVD",
+  "MVK",
+  "NOS2",
+  "NPC1",
+  "NSDHL",
+  "NUDT12",
+  "NUDT19",
+  "NUDT7",
+  "PAOX",
+  "PECR",
+  "PEX1",
+  "PEX10",
+  "PEX11A",
+  "PEX11B",
+  "PEX11G",
+  "PEX12",
+  "PEX13",
+  "PEX14",
+  "PEX16",
+  "PEX19",
+  "PEX2",
+  "PEX26",
+  "PEX28",
+  "PEX29",
+  "PEX3",
+  "PEX30",
+  "PEX31",
+  "PEX32",
+  "PEX5",
+  "PEX5L",
+  "PEX6",
+  "PEX7",
+  "PEXD1",
+  "PHYH",
+  "PIPOX",
+  "PMVK",
+  "PRDX5",
+  "PXMP2",
+  "PXMP4",
+  "RPS27A",
+  "SC5D",
+  "SCOX",
+  "SCP2",
+  "SLC25A17",
+  "SLC27A2",
+  "SOD1",
+  "SOD2",
+  "TKT",
+  "TMEM14C",
+  "TMEM189",
+  "TPR1",
+  "TTC1",
+  "TYSND1",
+  "UBA52",
+  "UBB",
+  "UBC",
+  "UBE2D1",
+  "UBE2D2",
+  "UBE2D3",
+  "USP9X",
+  "VWA8",
+  "XDH",
+  "ZFAND6"
+ ],
+ "source": {
+  "ACAA1": [
+   "MSigDB:KEGG_MEDICUS_REFERENCE_BETA_OXIDATION_PEROXISOME_VLCFA",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:beta-oxidation"
+  ],
+  "ACOX1": [
+   "MSigDB:KEGG_MEDICUS_REFERENCE_BETA_OXIDATION_PEROXISOME_VLCFA",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:beta-oxidation"
+  ],
+  "ACOX3": [
+   "MSigDB:KEGG_MEDICUS_REFERENCE_BETA_OXIDATION_PEROXISOME_VLCFA",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "HSD17B4": [
+   "MSigDB:KEGG_MEDICUS_REFERENCE_BETA_OXIDATION_PEROXISOME_VLCFA",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:beta-oxidation"
+  ],
+  "SCP2": [
+   "MSigDB:KEGG_MEDICUS_REFERENCE_BETA_OXIDATION_PEROXISOME_VLCFA",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:beta-oxidation"
+  ],
+  "ABCD1": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "curated:PEX machinery"
+  ],
+  "ABCD2": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "ABCD3": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "ACBD5": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "curated:beta-oxidation"
+  ],
+  "ALDH3A2": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM"
+  ],
+  "ATAD1": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT"
+  ],
+  "FIS1": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT"
+  ],
+  "GDAP1": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:bile acid/misc"
+  ],
+  "PEX11B": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX12": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX13": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX14": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX16": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX19": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX2": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX26": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX3": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PXMP2": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PXMP4": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "SLC25A17": [
+   "MSigDB:REACTOME_CLASS_I_PEROXISOMAL_MEMBRANE_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "curated:PEX machinery",
+   "curated:ether lipid"
+  ],
+  "ACBD4": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM"
+  ],
+  "ACOT4": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "ACOT6": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "curated:beta-oxidation"
+  ],
+  "ACOT8": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "ACOX2": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "ACOXL": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM"
+  ],
+  "AMACR": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:bile acid/misc"
+  ],
+  "CRAT": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "CROT": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "DECR2": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "ECI2": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "EHHADH": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "HACL1": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "HAO2": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "MLYCD": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "NUDT19": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:bile acid/misc"
+  ],
+  "NUDT7": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:bile acid/misc"
+  ],
+  "PECR": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "PHYH": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:bile acid/misc"
+  ],
+  "SLC27A2": [
+   "MSigDB:REACTOME_PEROXISOMAL_LIPID_METABOLISM",
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "ACOT2": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "AGPS": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:ether lipid"
+  ],
+  "AGXT": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:bile acid/misc"
+  ],
+  "BAAT": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "CAT": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "DAO": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "DDO": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "DHRS4": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "ECH1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation",
+   "curated:bile acid/misc"
+  ],
+  "EPHX2": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "GNPAT": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ether lipid"
+  ],
+  "GSTK1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "HAO1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "HMGCL": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:beta-oxidation"
+  ],
+  "IDE": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "IDH1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "LONP2": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "MPV17": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "NOS2": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "PAOX": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "PEX1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX10": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX5": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX6": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PEX7": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "PIPOX": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:ROS/H2O2"
+  ],
+  "RPS27A": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "TYSND1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "MSigDB:REACTOME_TYSND1_CLEAVES_PEROXISOMAL_PROTEINS",
+   "curated:PEX machinery"
+  ],
+  "UBA52": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "UBB": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "UBC": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "UBE2D1": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "UBE2D2": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "UBE2D3": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT",
+   "curated:PEX machinery"
+  ],
+  "USP9X": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "ZFAND6": [
+   "MSigDB:REACTOME_PEROXISOMAL_PROTEIN_IMPORT"
+  ],
+  "PEX5L": [
+   "curated:PEX machinery"
+  ],
+  "PEX11A": [
+   "curated:PEX machinery"
+  ],
+  "PEX11G": [
+   "curated:PEX machinery"
+  ],
+  "PEX28": [
+   "curated:PEX machinery"
+  ],
+  "PEX29": [
+   "curated:PEX machinery"
+  ],
+  "PEX30": [
+   "curated:PEX machinery"
+  ],
+  "PEX31": [
+   "curated:PEX machinery"
+  ],
+  "PEX32": [
+   "curated:PEX machinery"
+  ],
+  "TPR1": [
+   "curated:PEX machinery"
+  ],
+  "ABCD4": [
+   "curated:PEX machinery"
+  ],
+  "FAR1": [
+   "curated:PEX machinery",
+   "curated:ether lipid"
+  ],
+  "FAR2": [
+   "curated:PEX machinery",
+   "curated:ether lipid"
+  ],
+  "TTC1": [
+   "curated:PEX machinery"
+  ],
+  "AIMP1": [
+   "curated:PEX machinery"
+  ],
+  "PEXD1": [
+   "curated:PEX machinery"
+  ],
+  "HMGCLL1": [
+   "curated:beta-oxidation"
+  ],
+  "MFP2": [
+   "curated:beta-oxidation"
+  ],
+  "GPD1": [
+   "curated:beta-oxidation"
+  ],
+  "TMEM189": [
+   "curated:ether lipid"
+  ],
+  "TKT": [
+   "curated:ether lipid"
+  ],
+  "DOHH": [
+   "curated:ether lipid"
+  ],
+  "TMEM14C": [
+   "curated:ether lipid"
+  ],
+  "PRDX5": [
+   "curated:ROS/H2O2"
+  ],
+  "SOD1": [
+   "curated:ROS/H2O2"
+  ],
+  "SOD2": [
+   "curated:ROS/H2O2"
+  ],
+  "GPX1": [
+   "curated:ROS/H2O2"
+  ],
+  "GSTZ1": [
+   "curated:ROS/H2O2"
+  ],
+  "AOC1": [
+   "curated:ROS/H2O2"
+  ],
+  "FMO1": [
+   "curated:ROS/H2O2"
+  ],
+  "MAOA": [
+   "curated:ROS/H2O2"
+  ],
+  "MAOB": [
+   "curated:ROS/H2O2"
+  ],
+  "SCOX": [
+   "curated:ROS/H2O2"
+  ],
+  "XDH": [
+   "curated:ROS/H2O2"
+  ],
+  "IDI1": [
+   "curated:bile acid/misc"
+  ],
+  "IDI2": [
+   "curated:bile acid/misc"
+  ],
+  "FDPS": [
+   "curated:bile acid/misc"
+  ],
+  "FDFT1": [
+   "curated:bile acid/misc"
+  ],
+  "NSDHL": [
+   "curated:bile acid/misc"
+  ],
+  "SC5D": [
+   "curated:bile acid/misc"
+  ],
+  "DHCR24": [
+   "curated:bile acid/misc"
+  ],
+  "MVD": [
+   "curated:bile acid/misc"
+  ],
+  "MVK": [
+   "curated:bile acid/misc"
+  ],
+  "PMVK": [
+   "curated:bile acid/misc"
+  ],
+  "HMGCS1": [
+   "curated:bile acid/misc"
+  ],
+  "HMGCR": [
+   "curated:bile acid/misc"
+  ],
+  "GRHPR": [
+   "curated:bile acid/misc"
+  ],
+  "DEPP1": [
+   "curated:bile acid/misc"
+  ],
+  "HSDL2": [
+   "curated:bile acid/misc"
+  ],
+  "MTARC2": [
+   "curated:bile acid/misc"
+  ],
+  "MFF": [
+   "curated:bile acid/misc"
+  ],
+  "MAPKBP1": [
+   "curated:bile acid/misc"
+  ],
+  "ACOT1": [
+   "curated:bile acid/misc"
+  ],
+  "ACAD11": [
+   "curated:bile acid/misc"
+  ],
+  "DECR1": [
+   "curated:bile acid/misc"
+  ],
+  "VWA8": [
+   "curated:bile acid/misc"
+  ],
+  "NUDT12": [
+   "curated:bile acid/misc"
+  ],
+  "CLN3": [
+   "curated:bile acid/misc"
+  ],
+  "NPC1": [
+   "curated:bile acid/misc"
+  ],
+  "APOA1": [
+   "curated:bile acid/misc"
+  ],
+  "APOE": [
+   "curated:bile acid/misc"
+  ]
+ },
+ "modules": {
+  "peroxisomal_import_machinery": [
+   "ABCD1",
+   "ABCD2",
+   "ABCD3",
+   "ABCD4",
+   "AIMP1",
+   "FAR1",
+   "FAR2",
+   "PEX1",
+   "PEX10",
+   "PEX11A",
+   "PEX11B",
+   "PEX11G",
+   "PEX12",
+   "PEX13",
+   "PEX14",
+   "PEX16",
+   "PEX19",
+   "PEX2",
+   "PEX26",
+   "PEX28",
+   "PEX29",
+   "PEX3",
+   "PEX30",
+   "PEX31",
+   "PEX32",
+   "PEX5",
+   "PEX5L",
+   "PEX6",
+   "PEX7",
+   "PEXD1",
+   "PXMP2",
+   "PXMP4",
+   "SLC25A17",
+   "TPR1",
+   "TTC1",
+   "TYSND1",
+   "UBE2D3"
+  ],
+  "fatty_acid_beta_oxidation": [
+   "ACAA1",
+   "ACBD5",
+   "ACOT2",
+   "ACOT4",
+   "ACOT6",
+   "ACOT8",
+   "ACOX1",
+   "ACOX2",
+   "ACOX3",
+   "CRAT",
+   "CROT",
+   "DECR2",
+   "ECH1",
+   "ECI2",
+   "EHHADH",
+   "GPD1",
+   "HMGCL",
+   "HMGCLL1",
+   "HSD17B4",
+   "MFP2",
+   "PECR",
+   "SCP2"
+  ],
+  "ether_lipid_synthesis": [
+   "AGPS",
+   "DOHH",
+   "GNPAT",
+   "TKT",
+   "TMEM14C",
+   "TMEM189"
+  ],
+  "ros_detoxification": [
+   "AOC1",
+   "CAT",
+   "DAO",
+   "DDO",
+   "FMO1",
+   "GPX1",
+   "GSTK1",
+   "GSTZ1",
+   "HAO1",
+   "HAO2",
+   "MAOA",
+   "MAOB",
+   "PAOX",
+   "PIPOX",
+   "PRDX5",
+   "SCOX",
+   "SOD1",
+   "SOD2",
+   "XDH"
+  ],
+  "bile_acid_and_others": [
+   "ACAD11",
+   "ACBD4",
+   "ACOT1",
+   "ACOXL",
+   "AGXT",
+   "ALDH3A2",
+   "AMACR",
+   "APOA1",
+   "APOE",
+   "ATAD1",
+   "BAAT",
+   "CLN3",
+   "DECR1",
+   "DEPP1",
+   "DHCR24",
+   "DHRS4",
+   "EPHX2",
+   "FDFT1",
+   "FDPS",
+   "FIS1",
+   "GDAP1",
+   "GRHPR",
+   "HACL1",
+   "HMGCR",
+   "HMGCS1",
+   "HSDL2",
+   "IDE",
+   "IDH1",
+   "IDI1",
+   "IDI2",
+   "LONP2",
+   "MAPKBP1",
+   "MFF",
+   "MLYCD",
+   "MPV17",
+   "MTARC2",
+   "MVD",
+   "MVK",
+   "NOS2",
+   "NPC1",
+   "NSDHL",
+   "NUDT12",
+   "NUDT19",
+   "NUDT7",
+   "PHYH",
+   "PMVK",
+   "RPS27A",
+   "SC5D",
+   "SLC27A2",
+   "UBA52",
+   "UBB",
+   "UBC",
+   "UBE2D1",
+   "UBE2D2",
+   "USP9X",
+   "VWA8",
+   "ZFAND6"
+  ],
+  "pex5_import_dependent_core": [
+   "ABCD1",
+   "ABCD2",
+   "ABCD3",
+   "ACAA1",
+   "ACOT8",
+   "ACOX1",
+   "ACOX2",
+   "ACOX3",
+   "AGPS",
+   "AMACR",
+   "CAT",
+   "CRAT",
+   "CROT",
+   "DAO",
+   "DDO",
+   "DECR2",
+   "ECH1",
+   "ECI2",
+   "EHHADH",
+   "FDPS",
+   "GNPAT",
+   "GPD1",
+   "HAO1",
+   "HAO2",
+   "HMGCL",
+   "HMGCLL1",
+   "HSD17B4",
+   "IDI1",
+   "PAOX",
+   "PECR",
+   "PEX14",
+   "PEX5",
+   "PEX7",
+   "PHYH",
+   "PIPOX",
+   "PRDX5",
+   "SCP2",
+   "SLC25A17",
+   "TYSND1"
+  ]
+ }
+}

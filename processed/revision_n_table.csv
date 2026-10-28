@@ -1,0 +1,13 @@
+analysis,n,excluded,note
+TCGA-LIHC primary tumours,371,0.0,all tumor samples after expression/clinical merge
+TCGA-LIHC with OS follow-up,370,1.0,one tumour lacks os_time/os_event
+Fig 8A KM (median split),370,1.0,185 low-risk + 185 high-risk
+Multivariable Cox complete-case,238,133.0,56 events; 132 missing Child-Pugh + 1 missing OS
+Immune infiltration / checkpoint,371,0.0,median split 186 low + 185 high
+Mutation frequency,371,0.0,186 low + 185 high
+PXS tumour vs non-tumour,423,0.0,371 tumour + 52 adjacent non-tumour
+External GSE14520,221,,
+External GSE76427,115,,
+External GSE116174,64,,
+External GSE10186,80,,
+External ICGC-LIRI-JP,203,,

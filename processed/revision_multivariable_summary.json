@@ -1,0 +1,9 @@
+{
+ "n_complete_case": 238,
+ "n_events": 56,
+ "n_child_pugh_missing": 132,
+ "c_index_clinical": 0.5977,
+ "c_index_clinical_plus_PRS": 0.7898,
+ "LRT_add_PRS_stat": 53.246,
+ "LRT_add_PRS_p": 2.9425944111598797e-13
+}

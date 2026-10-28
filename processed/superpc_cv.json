@@ -1,0 +1,5 @@
+{
+ "superpc_n_folds": 10,
+ "superpc_cv_cindex": 0.5034010210592154,
+ "superpc_sd": 0.10005058416989036
+}

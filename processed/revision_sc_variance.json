@@ -1,0 +1,25 @@
+{
+ "n_cells": 76762,
+ "n_datasets": 5,
+ "n_patients": 97,
+ "R2_dataset_only": 0.1422,
+ "R2_celltype_only": 0.3475,
+ "R2_dataset_plus_celltype": 0.4691,
+ "R2_dataset_plus_celltype_plus_patient": 0.6478,
+ "pooled_malignant_mean_PXS": 0.2603,
+ "pooled_hepatocyte_mean_PXS": 0.1802,
+ "patient_level_pooled": {
+  "n_patients_paired": 58,
+  "mean_diff_malignant_minus_hepatocyte": -0.0085,
+  "n_patients_malignant_lower": 29,
+  "n_patients_malignant_higher": 29,
+  "wilcoxon_p": 0.538213566972053
+ },
+ "n_patients_by_dataset": {
+  "GSE125449": 12,
+  "GSE146115": 4,
+  "GSE149614": 21,
+  "GSE151530": 46,
+  "GSE98638": 14
+ }
+}

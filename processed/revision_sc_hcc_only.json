@@ -1,0 +1,40 @@
+{
+ "cells": [
+  {
+   "subset": "HCC",
+   "n_malignant": 13373,
+   "n_hepatocyte": 1725,
+   "mean_PXS_malignant": 0.28133042852639106,
+   "mean_PXS_hepatocyte": 0.18256473060868014,
+   "cohens_d": 1.0007890902211707,
+   "mwu_p_cell_level": 5.833165762579826e-304
+  },
+  {
+   "subset": "iCCA",
+   "n_malignant": 1532,
+   "n_hepatocyte": 76,
+   "mean_PXS_malignant": 0.11691482452353649,
+   "mean_PXS_hepatocyte": 0.12518766660117206,
+   "cohens_d": -0.149610655518126,
+   "mwu_p_cell_level": 0.4317346950781531
+  }
+ ],
+ "patients": [
+  {
+   "subset": "HCC",
+   "n_patients_paired": 22,
+   "mean_diff_malignant_minus_hepatocyte": 0.059439675188490644,
+   "n_patients_malignant_lower": 3,
+   "n_patients_malignant_higher": 19,
+   "wilcoxon_p": 0.018956661224365234
+  },
+  {
+   "subset": "iCCA",
+   "n_patients_paired": 7,
+   "mean_diff_malignant_minus_hepatocyte": -0.04960765995738692,
+   "n_patients_malignant_lower": 4,
+   "n_patients_malignant_higher": 3,
+   "wilcoxon_p": 0.375
+  }
+ ]
+}
